@@ -4,7 +4,7 @@ import { Bot, Users, Globe, Shield, Award, Code, Building2, Zap, Heart, Star, Ch
 function About() {
   const teamMembers = [
     {
-      name: "Sarah Chen",
+      name: "Sarah  Chen",
       role: "CEO & Founder",
       image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
       description: "Former AI researcher at Stanford, passionate about making AI accessible to businesses."
